@@ -12,4 +12,4 @@ scikit-learn ≈ 0.24.2
 Default is 5-fold cross validation from CVm to CVmid on HMDIP and Peryton databases. To run this model：python main.py
 Calculate the integrated similarity between microbes and diseases  　&ensp;                  python SNF.py          
 Extract the linear features of microbes and diseases             　&ensp;        python NMF.py                 
-Extract the nonlinear features of microbes and diseases          　&ensp;      python SGAE.py ;python SGAE.py VGAE.py
+Extract the nonlinear features of microbes and diseases          　&ensp;      python SGAE.py ;python VGAE.py
